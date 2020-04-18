@@ -1,34 +1,10 @@
-# vuejs
+# Gastro chita
 
-## Project setup
-```
-yarn install
-```
+[DEMO](https://gastro-chita-dev-team.github.io/gastro-chita-vue/)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### Tool's
 
-### Compiles and minifies for production
-```
-yarn build
-```
+* Vue + TS
 
-### Run your unit tests
-```
-yarn test:unit
-```
 
-### Run your end-to-end tests
-```
-yarn test:e2e
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[gastro_chita](https://github.com/NatatkaValikowsky/gastro_chita)
